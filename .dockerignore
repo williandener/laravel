@@ -1,0 +1,9 @@
+.git
+Dockerfile
+storage/logs/*
+storage/framewrok/cache/*
+storage/framewrok/sessions/*
+storage/framewrok/testing/*
+storage/framewrok/views/*
+storage/app/public/*
+bootstrap/cache/*
